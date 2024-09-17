@@ -1,0 +1,30 @@
+<?php
+
+$lang['als_projectroadmap'] = 'Roteiro do Projeto';
+$lang['projectroadmap'] = 'Roteiro do Projeto';
+$lang['view_projectroadmap'] = 'Ver roteiro do projeto';
+$lang['add_dashboard'] = 'Adicionar ao painel';
+$lang['remove_dashboard'] = 'Remover do painel';
+$lang['total_task_assigned'] = 'Total de tarefas atribuídas';
+$lang['total_task_is_completed'] = 'Total de tarefas concluídas';
+$lang['Total_task_late'] = 'Total de tarefas atrasadas';
+$lang['statistics_by_milestone_status'] = 'Estatísticas por status de marco';
+$lang['statistics_by_task_status'] = 'Estatísticas por status de tarefa';
+$lang['statistics_by_task_priority'] = 'Estatísticas por prioridade de tarefa';
+$lang['statistics_by_estimate_hour'] = 'Estatísticas por estimativa de horas';
+$lang['total_task'] = 'Total de tarefas';
+$lang['list_milestones'] = 'Lista de marcos';
+$lang['list_members'] = 'Lista de membros';
+$lang['not_started'] = 'Não foi iniciado';
+$lang['in_process'] = 'Em processo';
+$lang['complete'] = 'Concluído';
+$lang['late'] = 'Tarde';
+$lang['not_started(late)'] = 'Não iniciado (tarde)';
+$lang['in_process(late)'] = 'Em processo (atrasado)';
+$lang['complete(late)'] = 'Concluído (atrasado)';
+$lang['milestones_name'] = 'Nomes de marcos';
+$lang['project_status'] = 'Status do projeto';
+$lang['estimate_hour'] = 'Horas estimadas';
+$lang['widget'] = 'Ferramenta';
+$lang['task_related'] = 'Relacionado a';
+$lang['time'] = 'Tempo';

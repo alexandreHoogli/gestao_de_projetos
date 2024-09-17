@@ -1,0 +1,7 @@
+{
+    "name": "MubashirRiaz7/whatsapp",
+    "description": "WhatsApp Cloud API module",
+    "require": {
+        "netflie/whatsapp-cloud-api": "^2.2"
+    }
+}

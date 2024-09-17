@@ -1,0 +1,30 @@
+<?php
+
+$lang['extended_email'] = 'E-mails avançados';
+$lang['staffid'] = 'ID da equipe';
+$lang['email'] = 'E-mail';
+$lang['fullname'] = 'Nome completo';
+$lang['active'] = 'Ativo';
+$lang['email_status'] = 'Status do e-mail';
+$lang['permission_manage'] = 'Gerenciar';
+$lang['staff_email_info'] = 'Informações de e-mail da equipe';
+$lang['extended_email_form'] = 'Configurações';
+$lang['get_settings'] = 'Obter configurações';
+$lang['save_settings'] = 'Salvar configurações';
+$lang['email_settings_active_status_changed'] = 'Configuração atualizada';
+$lang['email_settings_added'] = 'Configurações de e-mail adicionadas';
+$lang['email_settings_updated'] = 'Configurações de e-mail atualizadas';
+$lang['test_mail_sended'] = 'E-mail de teste enviado';
+$lang['extended_email_log_history'] = 'Entradas de registro';
+$lang['description'] = 'Descrição';
+$lang['datetime'] = 'Data hora';
+$lang['staff_email_changes'] = 'Funcionários afetados';
+$lang['clear_log'] = 'Log clara';
+$lang['extended_email_activity_log_clear'] = 'Limpar registro de atividades';
+$lang['contact_to_admin'] = 'Entre em contato com um administrador';
+$lang['please_select_at_least_one_staff'] = 'Selecione pelo menos um membro da equipe';
+$lang['allow_staff_member_mods'] = 'Permitir que este membro da equipe modifique suas configurações';
+$lang['extended_smtp_settings_subheading'] = 'Configurações avançadas do sistema de e-mail';
+$lang['extended_smtp_settings_select_staff'] = 'Selecione o membro da equipe';
+$lang['extended_smtp_settings_mail_engine'] = 'Selecione o tipo de e-mail para este membro da equipe';
+$lang['extended_smtp_settings_desc'] = 'Definir configurações para este membro da equipe';
